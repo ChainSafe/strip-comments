@@ -28,10 +28,7 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
         if: ${{ steps.release.outputs.release_created }}
       
-      - run: yarn install --ignore-scripts
-        if: ${{ steps.release.outputs.release_created }}
-      
-      - run: yarn build
+      - run: yarn install
         if: ${{ steps.release.outputs.release_created }}
 
       - run: npm publish
