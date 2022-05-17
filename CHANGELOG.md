@@ -6,6 +6,14 @@
 ### Miscellaneous
 
 * fix release process ([7593f3b](https://github.com/ChainSafe/strip-comments/commit/7593f3b28c918fbad496a1d20b6ad4b883095158))
+* **master:** release 1.0.7 ([#11](https://github.com/ChainSafe/strip-comments/issues/11)) ([f21db98](https://github.com/ChainSafe/strip-comments/commit/f21db987d0271e0fe8e2a13055feed6b1fd25d26))
+
+### [1.0.7](https://github.com/ChainSafe/strip-comments/compare/v1.0.6...v1.0.7) (2022-05-17)
+
+
+### Miscellaneous
+
+* fix release process ([7593f3b](https://github.com/ChainSafe/strip-comments/commit/7593f3b28c918fbad496a1d20b6ad4b883095158))
 
 ### [1.0.6](https://github.com/ChainSafe/strip-comments/compare/v1.0.5...v1.0.6) (2022-05-17)
 
