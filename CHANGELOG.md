@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.7](https://github.com/ChainSafe/strip-comments/compare/v1.0.6...v1.0.7) (2022-05-17)
+
+
+### Miscellaneous
+
+* fix release process ([7593f3b](https://github.com/ChainSafe/strip-comments/commit/7593f3b28c918fbad496a1d20b6ad4b883095158))
+
 ### [1.0.6](https://github.com/ChainSafe/strip-comments/compare/v1.0.5...v1.0.6) (2022-05-17)
 
 
